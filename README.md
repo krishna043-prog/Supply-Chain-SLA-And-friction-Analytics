@@ -61,7 +61,7 @@ HAVING COUNT(order_id) > 100;
 ---
 ## 📊 Key Findings & Dashboard Highlights
 
-![Dashboard Preview](https://github.com/krishna043-prog/Supply-Chain-SLA-Analysis/blob/main/supply_chain_dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/krishna043-prog/Supply-Chain-SLA-And-friction-Analytics/blob/main/Dashboard/supply_chain_dashboard_screenshot.png)
 
 * **Global SLA Baseline:** Across **180,519 total orders**, **98,977 orders** arrived late—resulting in a **54.83% global late delivery rate** and an average transit time of **3.5 days**.
 * **Top Regional Bottlenecks:** **Central Africa (57.96%)**, **South Asia (56.27%)**, and **East Africa (55.94%)** experience the highest delay rates, whereas **Canada (48.80%)** performs best.
